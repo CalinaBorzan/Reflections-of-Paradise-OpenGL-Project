@@ -52,4 +52,4 @@ Implemented using transformations and dynamic view matrix updates with `lookAt`.
 ## Getting Started  
 ### **Clone the Repository**  
 ```sh
-git clone https://github.com/your-username/reflections-of-paradise.git
+git clone https://github.com/CalinaBorzan/Reflections-of-Paradise-OpenGL-Project.git
